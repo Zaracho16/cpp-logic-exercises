@@ -1,5 +1,6 @@
 
-/* 3) Contar elementos
+/* 
+	3) Contar elementos
 	Ingresa números en una pila hasta que el usuario escriba 0.
 	Después, muestra cuántos números se insertaron en total.
 */

@@ -1,5 +1,5 @@
 
-// 1) Insertar y mostrar elementos
+// 2) Insertar y mostrar elementos
 // Crea un programa que permita al usuario ingresar 5 números y los guarde en una pila. 
 // Luego, muestra los elementos en el orden en que se van desapilando.
 
