@@ -1,9 +1,9 @@
 /*
-Diseñar un algoritmo que nos permite registrar en estructuras tipo cola con un menú de opciones 
-(agregar, quitar, salir, etc), 2 líneas caja de un supermercado, donde cada cliente será atendido 
-según su orden de llegada, pero dependiendo de la cantidad de ítems que tenga cada cliente irá a una 
-determinada línea de caja, para clientes con hasta 3 ítems irán a la caja 1, con más de 3 ítems irán a la caja 2, 
-de cada cliente sólo vamos a registrar su nombre, al salir se desea saber:
+Diseï¿½ar un algoritmo que nos permite registrar en estructuras tipo cola con un menï¿½ de opciones 
+(agregar, quitar, salir, etc), 2 lï¿½neas caja de un supermercado, donde cada cliente serï¿½ atendido 
+segï¿½n su orden de llegada, pero dependiendo de la cantidad de ï¿½tems que tenga cada cliente irï¿½ a una 
+determinada lï¿½nea de caja, para clientes con hasta 3 ï¿½tems irï¿½n a la caja 1, con mï¿½s de 3 ï¿½tems irï¿½n a la caja 2, 
+de cada cliente sï¿½lo vamos a registrar su nombre, al salir se desea saber:
 
 Cantidad de clientes que fueron atendidos en la caja 1 y 2 por separado.
 
